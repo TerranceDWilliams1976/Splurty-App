@@ -50,6 +50,8 @@ hr {
 
 h1 {
 	font-family: 'Raleway', sans-serif;
+	font-weight: bolder;
+	color: blue;
 	
 }
 
@@ -91,4 +93,11 @@ h2 {
  
  ::selection {
  	background-color: #f84342
+ }
+ img {
+ 	border: 3px solid black;
+ 	border-radius: 50%;
+ }
+ .about {
+ 	color: black;
  }
